@@ -6,3 +6,5 @@ src/datasources/__pycache__/
 /.env/
 
 src/__pycache__/
+
+galmet/__pycache__/
