@@ -7,7 +7,7 @@ import editdistance
 import torch
 from deap.tools import ParetoFront
 
-import src.genetictransformer as gt
+import galmet.genetictransformer as gt
 
 from deap import tools, creator, base
 import numpy as np
