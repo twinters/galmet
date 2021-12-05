@@ -16,3 +16,17 @@ If you want to run the satire evolution example in [notebooks/galmet-satire-exam
 3. Download `robeta-satire-mlm` and `roberta-satire-regression` from the [releases page](https://github.com/twinters/galmet/releases/tag/0.0.1), and put them in a `models/` folder at the top-level of the repository.
 4. Run `jupyter notebook` in command line in the repository folder.
 5. Navigate to the `galmet-satire-example.ipynb` and run it. 
+
+## Citation
+If use this work in an academic context, please consider citing the following [paper](https://computationalcreativity.net/iccc21/wp-content/uploads/2021/09/ICCC_2021_paper_72.pdf):
+
+```
+@inproceedings{winters2021survival,
+  title={Survival of the Wittiest: Evolving Satire with Language Models},
+  author={Winters, Thomas and Delobelle, Pieter},
+  booktitle={Proceedings of the Twelfth International Conference on Computational Creativity},
+  pages={82--86},
+  year={2021},
+  organization={Association for Computational Creativity (ACC)}
+}
+```
